@@ -103,7 +103,7 @@
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:quachkhangnhut@gmail.com" target="_top">quachkhangnhut@gmail.com</a></strong>
 </p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
+<a href="https://www.youtube.com/channel/UCNvIgU97yitZ98MMedUmHgw" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpg" width="1200" alt="trungquandev-official" />
 </a>
 
